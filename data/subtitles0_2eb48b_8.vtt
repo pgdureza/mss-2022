@@ -1,0 +1,67 @@
+WEBVTT - Made with VTT Creator
+
+00:02.174 --> 00:06.349
+This time, let's consider the point of view of the Operations Personnel.
+
+
+
+00:07.006 --> 00:11.047
+When the OPs Personnel enters all the necessary information in iGATOR,
+
+00:11.174 --> 00:14.337
+a Ticket Order, or TOR, is created accordingly. 
+
+00:14.863 --> 00:20.239
+This TOR contains Proflight, Passenger, Itinerary, and Fare details.
+
+00:20.947 --> 00:24.397
+What's interesting is that at the same time the TOR is created,
+
+00:24.412 --> 00:27.785
+automatically, a Purchase Order is also created.
+
+00:28.384 --> 00:32.100
+It is very important to understand that the information contained
+
+00:32.204 --> 00:36.245
+within the TOR is exactly the same as the information created under the PO.
+
+00:36.868 --> 00:39.154
+This purchase order will then immediately
+
+00:39.290 --> 00:42.225
+ and automatically go into the records of PRISM.
+
+00:42.917 --> 00:47.301
+So going back to AIS, now that they have the Purchase Order document,
+
+00:47.434 --> 00:49.243
+they can go ahead and check the invoice 
+
+00:49.379 --> 00:51.379
+and make sure all the information is in order.
+
+00:52.169 --> 00:55.886
+And once everything has been verified and processed in the system, 
+
+00:55.930 --> 00:59.227
+AIS will send a request to the Treasury Department. 
+
+00:59.704 --> 01:03.933
+After which, the treasury department releases the transfer of payment 
+
+01:03.933 --> 01:06.693
+to the corresponding Airlines Partners. 
+
+01:06.846 --> 01:10.071
+What this means is that the transfer of money from IOM 
+
+01:10.071 --> 01:14.360
+to the Airlines Partners is done by Treasury and not by AIS. 
+
+01:14.993 --> 01:18.314
+With the Airlines Partners reimbursed for their services,
+
+01:18.314 --> 01:21.267
+this effectively ends the invoicing process.
+

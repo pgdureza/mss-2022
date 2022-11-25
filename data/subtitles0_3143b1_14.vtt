@@ -1,0 +1,110 @@
+WEBVTT - Made with VTT Creator
+
+00:01.999 --> 00:04.497
+For operations personnel, there should only be 
+
+00:04.497 --> 00:06.817
+one way to affect the project WBS. 
+
+00:07.626 --> 00:09.816
+This is through creating TORs in iGATOR.
+
+00:10.614 --> 00:13.449
+Do recall that in order to create the TOR in iGATOR, 
+
+00:13.546 --> 00:15.546
+the following information must be provided. 
+
+00:16.416 --> 00:18.416
+However, in addition to this information, 
+
+00:18.700 --> 00:21.600
+it should also be noted that in order to proceed with TOR creation, 
+
+00:21.851 --> 00:25.271
+a WBS must also be provided by the operations personnel.
+
+00:25.970 --> 00:28.475
+As we can recall, when a TOR is created, 
+
+00:28.635 --> 00:31.570
+a corresponding Purchase Order is also created in PRISM.
+
+00:32.194 --> 00:35.074
+As seen here, the WBS information from the TOR 
+
+00:35.074 --> 00:37.074
+is also carried over to the Purchase Order.
+
+00:38.154 --> 00:41.159
+The Purchase Order will then automatically be integrated into PRISM.
+
+00:41.718 --> 00:44.751
+It is important to understand that PRISM holds all the functions 
+
+00:44.751 --> 00:46.246
+pertaining to the Project Code. 
+
+00:47.084 --> 00:49.084
+Although for operations personnel, the two most important aspects 
+
+00:50.444 --> 00:52.711
+are COMMITMENTS and PROJECT COSTS.
+
+00:52.983 --> 00:54.873
+Commitments are allocated obligations 
+
+00:54.873 --> 00:57.700
+to charge future project costs on the Project balance. 
+
+00:58.491 --> 01:01.204
+A simpler way to consider is that commitments do not affect
+
+01:01.204 --> 01:04.999
+ the project balance while project costs directly reduce the Project Balance.
+
+01:05.827 --> 01:08.710
+Further still, all commitments will become project costs 
+
+01:08.710 --> 01:10.430
+as certain scenarios are triggered.
+
+01:11.132 --> 01:13.352
+So going back, when a TOR has been created in iGATOR 
+
+01:14.197 --> 01:17.357
+and its corresponding PO has also been created in PRISM,
+
+01:18.242 --> 01:22.272
+the WBS that was transferred automatically goes into PROJECT COMMITMENTS.
+
+01:24.280 --> 01:26.873
+If we look back at iGATOR, it should be noted that 
+
+01:26.873 --> 01:29.623
+the newly created TOR is still in the “ISSUED” status. 
+
+01:30.393 --> 01:32.773
+What happens then when the TOR is set to “USED”?
+
+01:34.697 --> 01:39.052
+When the TOR is set to “USED”, the commitments become Project Costs. 
+
+01:39.692 --> 01:43.167
+And these project costs are instantly deducted from the Project Balance.
+
+01:44.680 --> 01:48.530
+At this point, the WBS is charged as an EXPENSE accounting entry. 
+
+01:49.273 --> 01:51.724
+For movement operations, these expense accounts 
+
+01:51.724 --> 01:56.409
+are normally Air Travel Costs, Staff Travel Costs, or Unrecoverable Costs. 
+
+01:57.137 --> 02:00.213
+Unrecoverable costs are mostly comprised of penalties 
+
+02:00.213 --> 02:02.213
+or non-refundable fares & taxes.
+

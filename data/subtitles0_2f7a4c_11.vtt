@@ -1,0 +1,170 @@
+WEBVTT - Made with VTT Creator
+
+00:00.000 --> 00:03.451
+Next, let's see how amendments affect the invoicing process. 
+
+00:03.451 --> 00:07.695
+Specifically, let's take a look at rebookings and cancelations. 
+
+00:08.597 --> 00:11.892
+Let's go back and look at the overview of the invoicing process again. 
+
+00:13.133 --> 00:15.686
+In this scenario, the invoice was already processed
+
+00:15.686 --> 00:17.323
+ and payment was already done. 
+
+00:17.966 --> 00:20.316
+Let's assume that after the initial invoice was paid,
+
+00:20.504 --> 00:22.504
+a rebooking on the ticket was done. 
+
+00:23.213 --> 00:27.038
+Under normal circumstances, the rebooking would incur a rebooking fee.
+
+00:28.202 --> 00:32.142
+In turn, the Airlines Partners will bill IOM again for the extra fees. 
+
+00:32.731 --> 00:34.909
+And once again, this billing will be in the form 
+
+00:34.909 --> 00:38.119
+of Invoices which are to be sent directly to AIS.
+
+00:39.669 --> 00:43.684
+AIS will then process the Invoice containing the Rebooking Fee in PRISM. 
+
+00:44.442 --> 00:47.167
+Yet, hold on a minute, there seems to be a problem. 
+
+00:48.000 --> 00:51.009
+Unfortunately, at this point, AIS will not be able
+
+00:51.009 --> 00:53.377
+ to process the Invoice for the rebooking fees. 
+
+00:54.000 --> 00:57.000
+This is because the Purchase Order in PRISM currently doesn't have 
+
+00:57.000 --> 01:00.772
+information regarding the rebooking fees amendment. 
+
+01:00.987 --> 01:03.377
+In order to update the Purchase Order information, 
+
+01:03.584 --> 01:06.639
+action must first be done on the operations side of the process.
+
+01:07.476 --> 01:10.872
+The operations personnel would take the rebooking information to iGATOR 
+
+01:10.872 --> 01:12.780
+in order to update and amend the TOR. 
+
+01:13.954 --> 01:16.418
+Amending the TOR would also consequently update 
+
+01:16.418 --> 01:18.793
+the Purchase Order in PRISM, automatically. 
+
+01:20.163 --> 01:24.257
+With the purchase order finally update, AIS now has authorization 
+
+01:24.257 --> 01:26.502
+to go ahead with processing the rebooking fee. 
+
+01:28.371 --> 01:31.155
+With the invoice processed in PRISM by AIS, 
+
+01:31.500 --> 01:33.101
+treasury can go ahead with the payment. 
+
+01:35.720 --> 01:38.620
+Now let's see what happens if a ticket is cancelled instead.
+
+01:39.591 --> 01:43.519
+When a ticket is cancelled, the very first difference is that instead of an Invoice,
+
+01:43.669 --> 01:45.629
+the Airlines sends a Credit Note instead. 
+
+01:46.310 --> 01:49.185
+On the operations' side, the OPS personnel would also 
+
+01:49.185 --> 01:52.640
+update the iGATOR information to include the cancellation amendment.
+
+01:53.510 --> 01:57.540
+Following this, the Purchase Order in PRISM will also be updated automatically 
+
+01:57.540 --> 01:59.634
+to also include the refund amendment. 
+
+02:00.273 --> 02:02.273
+With the Credit Note on hand and the Purchase Order 
+
+02:02.393 --> 02:04.393
+updated with the refund amendment,
+
+02:04.617 --> 02:07.892
+AIS will then proceed with processing the documents in PRISM.
+
+02:09.518 --> 02:13.108
+However, since this is a credit note, does this mean that the initial payment
+
+02:13.108 --> 02:16.023
+ we did for the invoice be returned to us by the Airlines? 
+
+02:16.806 --> 02:19.916
+No, not at all. Here's what happens instead.
+
+02:21.639 --> 02:25.364
+First, it is important to understand that Treasury also uses PRISM 
+
+02:25.364 --> 02:27.364
+to transact with the Airlines Partners. 
+
+02:28.202 --> 02:31.351
+Specifically, whatever invoices are processed by AIS 
+
+02:31.351 --> 02:33.351
+will reflect in the records of Treasury.
+
+02:34.174 --> 02:36.174
+And whenever treasury schedules a remittance, 
+
+02:36.439 --> 02:39.144
+all invoices within their records will be paid accordingly. 
+
+02:39.951 --> 02:42.036
+This is normally done via Bank Transfer.
+
+02:43.739 --> 02:46.684
+Going back, how about when Credit Notes are processed? 
+
+02:47.968 --> 02:50.428
+When credit notes are processed by AIS, 
+
+02:50.751 --> 02:54.171
+the Treasury records are also updated to show the credit note balances. 
+
+02:54.993 --> 02:57.634
+However, Treasury cannot remit this to the airlines
+
+02:57.634 --> 03:01.409
+because technically, the Airlines owes IOM for these refunds.
+
+03:02.238 --> 03:04.315
+What happens instead is that the credit balance 
+
+03:04.575 --> 03:06.575
+is deducted from future invoice payments. 
+
+03:07.405 --> 03:10.785
+The balance of credit notes will reduce the total balance of invoices.
+
+03:11.510 --> 03:15.325
+Then, the remaining invoice balance will be remitted to the Airlines accordingly.
+

@@ -1,0 +1,92 @@
+WEBVTT - Made with VTT Creator
+
+00:00.890 --> 00:03.840
+Now that we have a good understanding of the invoicing process, 
+
+00:04.157 --> 00:06.968
+we can proceed with understanding the basic financial impact 
+
+00:06.968 --> 00:09.213
+of our actions involved in the movement process.
+
+00:09.884 --> 00:13.414
+Let’s take a closer look at Project Codes and Project Budget Lines.
+
+00:14.037 --> 00:16.037
+This is an example of a Project Code.
+
+00:16.614 --> 00:20.214
+The first two letters of the Project Code denote the type of project this is. 
+
+00:21.094 --> 00:24.128
+For movement operations, the most common types of projects are
+
+00:24.148 --> 00:27.874
+ Resettlement, Return, Repatriation, Countertrafficking, 
+
+00:28.163 --> 00:32.098
+Self-Payers, Facilitated Migration, and Operational Support.
+
+00:32.812 --> 00:35.588
+The last four numbers are added to the first two letters 
+
+00:35.588 --> 00:37.866
+as a unique identifier for each project type.
+
+00:38.619 --> 00:42.014
+The Project Code can then be further subdivided into categories. 
+
+00:42.466 --> 00:47.364
+The next string of characters denotes the IOM Mission this specific category is assigned to. 
+
+00:48.014 --> 00:51.982
+In this case, EG10 refers to IOM Cairo in Egypt. 
+
+00:53.633 --> 00:56.850
+The next two numbers denote the type of costs that are being incurred. 
+
+00:57.371 --> 01:00.081
+The most common types are International Staff Costs, 
+
+01:00.451 --> 01:04.341
+Local Staff Costs, Office Costs, and Movement Operations Costs.
+
+01:05.653 --> 01:09.428
+Finally, the last remaining string of numbers are a unique identifier 
+
+01:09.428 --> 01:12.639
+to denote the exact type of specific expense being incurred. 
+
+01:13.346 --> 01:17.881
+For movement operations, the most common string is 04.001 
+
+01:18.137 --> 01:20.577
+which corresponds to Transport Assistance costs.
+
+01:21.338 --> 01:23.641
+All in all, this long string of characters 
+
+01:23.641 --> 01:25.636
+is what we refer to as the Project Budget Line. 
+
+01:26.410 --> 01:29.523
+The Project Budget Line is also more commonly referred to as 
+
+01:29.523 --> 01:31.773
+the Work Budget Structure or the WBS.
+
+01:32.545 --> 01:34.545
+The WBS is very important. 
+
+01:34.943 --> 01:38.415
+In relation to the project budget, the WBS serves as a way
+
+01:38.415 --> 01:41.220
+ for movements to use part of the allocated budget. 
+
+01:44.916 --> 01:48.731
+The usage of these WBS lines is charged as costs to the project.
+
+01:49.349 --> 01:53.059
+We will discuss this process in more detail in the next few sections.
+

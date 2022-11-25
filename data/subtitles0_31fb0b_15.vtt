@@ -1,0 +1,191 @@
+WEBVTT - Made with VTT Creator
+
+00:00.199 --> 00:04.634
+As previously mentioned, TORs can be amended to make further changes.
+
+00:05.362 --> 00:07.531
+ The two most common types of amendments 
+
+00:07.531 --> 00:09.886
+are rebooking and cancellation amendments.
+
+00:10.583 --> 00:14.383
+In order to do amendments, the TOR status must still be “ISSUED”. 
+
+00:14.986 --> 00:18.566
+In this example, the TOR has already been set to “USED” 
+
+00:18.763 --> 00:22.658
+and the corresponding WBS has already been charged to the project.
+
+00:23.354 --> 00:25.354
+With the help of AIS, 
+
+00:25.395 --> 00:29.035
+the iGATOR status can be reverted back from “USED” to “ISSUED”.
+
+00:29.726 --> 00:33.139
+The immediate financial effect of this action is a transfer
+
+00:33.139 --> 00:35.139
+ from PROJECT COSTS to COMMITMENTS. 
+
+00:35.705 --> 00:39.902
+In a sense, this effect removes the expenses charged to the Project 
+
+00:39.902 --> 00:42.632
+and this effectively replenishes the project balance.
+
+00:43.394 --> 00:46.374
+The main reason why a TOR is reverted back to “Issued” 
+
+00:46.374 --> 00:49.499
+is to allow TOR amendments to be done by Ops personnel.
+
+00:50.214 --> 00:53.814
+Say for example, a rebooking amendment was done on the TOR. 
+
+00:54.581 --> 00:55.986
+When a TOR is rebooked, 
+
+00:56.164 --> 00:59.399
+additional costs are incurred in the form of rebooking fees. 
+
+01:00.041 --> 01:02.828
+These rebooking fees are recognized in the form of 
+
+01:02.828 --> 01:05.603
+additional commitments since the TOR is still “Issued”.
+
+01:06.378 --> 01:09.075
+It goes to follow that additional rebooking amendments
+
+01:09.075 --> 01:11.930
+ will continuously add more charges to commitments.
+
+01:13.530 --> 01:16.390
+When the amended TOR will be finally set to “USED”, 
+
+01:16.795 --> 01:19.202
+all of these additional commitments will transfer
+
+01:19.202 --> 01:21.707
+ to Project Costs as additional expenses. 
+
+01:22.413 --> 01:25.531
+The project costs now include the original fare charges
+
+01:25.531 --> 01:27.841
+ plus all the rebooking amendment fees. 
+
+01:28.570 --> 01:31.830
+All of these charges will be deducted from the Project Balance.
+
+01:33.306 --> 01:37.341
+The other amendment type, cancellations, works a bit differently. 
+
+01:37.777 --> 01:40.692
+There are mainly three types of cancellation amendments; 
+
+01:41.019 --> 01:44.284
+UNUSED FULL REFUND, UNUSED PARTIAL REFUND, 
+
+01:44.297 --> 01:45.972
+and USED PARTIAL REFUND.
+
+01:46.667 --> 01:49.536
+UNUSED FULL REFUND amendments are instances 
+
+01:49.536 --> 01:54.041
+where the initial invoice charged to IOM was fully refunded without penalties. 
+
+01:54.751 --> 01:59.243
+In this regard, the effect of this amendment in iGATOR is that the status 
+
+01:59.243 --> 02:01.243
+is changed from ISSUED to “CANCELLED”.
+
+02:01.742 --> 02:06.000
+In turn, the effect of this in PRISM is that the current existing commitments 
+
+02:06.000 --> 02:10.365
+from this TOR are effectively written-off and removed entirely from the Project. 
+
+02:11.074 --> 02:15.552
+In effect, a full cancellation refund amendment has a net ZERO EFFECT 
+
+02:15.552 --> 02:20.077
+on the project balance; it neither increases nor decreases the project.
+
+02:21.573 --> 02:23.573
+Similarly UNUSED PARTIAL REFUND amendments also change
+
+02:24.948 --> 02:27.583
+ the TOR status from “ISSUED” to “CANCELLED”. 
+
+02:28.237 --> 02:32.729
+However, the main difference is that unlike FULLY REFUNDABLE amendments, 
+
+02:32.729 --> 02:36.519
+PARTIAL REFUNDS cannot remove all the commitments present in PRISM.
+
+02:37.162 --> 02:40.817
+This remaining amount is actually the penalty fee for the cancellation. 
+
+02:41.224 --> 02:43.744
+And this amount automatically goes directly 
+
+02:43.774 --> 02:46.599
+into the Project Costs as unrecoverable expenses. 
+
+02:47.347 --> 02:50.782
+This has the overall effect of decreasing the project balance.
+
+02:53.323 --> 02:55.543
+And for the last cancellation amendment,
+
+02:55.797 --> 03:00.102
+ let us see how USED PARTIAL REFUND affects the Project WBS. 
+
+03:00.776 --> 03:03.591
+Unlike the two previous cancellation amendments, 
+
+03:03.739 --> 03:06.707
+USED PARTIAL REFUND results in the TOR status 
+
+03:06.707 --> 03:09.462
+being updated to “USED” instead of “CANCELLED”. 
+
+03:10.161 --> 03:13.774
+An example of when this amendment type is done is for situations 
+
+03:13.774 --> 03:16.619
+where only a portion of the flight leg has been cancelled 
+
+03:16.875 --> 03:19.325
+while the rest of the flight was used up accordingly.
+
+03:19.970 --> 03:23.125
+When the TOR is updated with this cancellation amendment, 
+
+03:23.354 --> 03:26.284
+the TOR status will automatically change to “USED” 
+
+03:26.505 --> 03:28.935
+and the commitments in PRISM will automatically 
+
+03:28.935 --> 03:32.175
+be reduced by the same amount of the cancelled portion of the flight.
+
+03:32.843 --> 03:36.443
+However, unlike UNUSED PARTIAL REFUND amendment, 
+
+03:36.757 --> 03:40.967
+the remaining balance in PRISM is actually no longer composed of penalty fees. 
+
+03:41.643 --> 03:45.858
+These will instead be charged into the project costs as normal expenses 
+
+03:45.858 --> 03:49.143
+such as Air Transportation Costs or Staff Travel Costs.
+
